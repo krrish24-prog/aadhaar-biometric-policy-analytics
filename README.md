@@ -69,13 +69,13 @@ To demonstrate **real-world, government-scale deployment readiness**.
 
 
 ### 🌐 AWS CloudFront Dashboard (Primary Deployment)
-👉 `https://<your-cloudfront-domain>.cloudfront.net`
+👉 https://d283gz5r8ajhof.cloudfront.net/
 
 ### 📄 Policy Insights Report (PDF)
-👉 `https://<your-cloudfront-domain>.cloudfront.net/reports/policy_insights.PDF`
+👉 https://d283gz5r8ajhof.cloudfront.net/reports/policy_insights.pdf
 
 ### 🧪 GitHub Pages (Demo / Backup)
-👉 `https://krrish24-prog.github.io/<repository-name>/`
+👉 
 
 ---
 
