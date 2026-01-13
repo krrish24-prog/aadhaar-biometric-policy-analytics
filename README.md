@@ -67,16 +67,11 @@ To demonstrate **real-world, government-scale deployment readiness**.
 
 ## 🔗 Live Deployments
 
+### 🧪 GitHub Pages (Primary Deployment) [ for understanding dashboard and policy insights ]
+👉 https://krrish24-prog.github.io/aadhaar-biometric-policy-analytics/
 
-### 🌐 AWS CloudFront Dashboard (Primary Deployment)
-👉 https://d283gz5r8ajhof.cloudfront.net/
-
-### 🌐  AWS decision-support tool
-👉  https://d283gz5r8ajhof.cloudfront.net/
-
-### 🧪 GitHub Pages (Demo / Backup)
-👉 
-
+### 🌐  AWS decision-support tool [ for understanding decision-support tool ]
+👉 https://aadhaar-biometric-dashboard.s3.ap-south-1.amazonaws.com/decision-support.html
 ---
 
 ## 🛠️ Tech Stack
