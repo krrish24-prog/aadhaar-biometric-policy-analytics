@@ -71,8 +71,8 @@ To demonstrate **real-world, government-scale deployment readiness**.
 ### 🌐 AWS CloudFront Dashboard (Primary Deployment)
 👉 https://d283gz5r8ajhof.cloudfront.net/
 
-### 📄 Policy Insights Report (PDF)
-👉 https://d283gz5r8ajhof.cloudfront.net/reports/policy_insights.pdf
+### 🌐  AWS decision-support tool
+👉  https://d283gz5r8ajhof.cloudfront.net/
 
 ### 🧪 GitHub Pages (Demo / Backup)
 👉 
