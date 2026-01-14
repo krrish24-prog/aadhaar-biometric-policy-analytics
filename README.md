@@ -1,7 +1,7 @@
-# 📊 Aadhaar Biometric Update Policy Intelligence Dashboard
+# 📊 Aadhaar Biometric Update Data Analytics Project
 
 ## 🚀 Overview
-This project presents a **policy intelligence dashboard** built on Aadhaar biometric update data to support **data-driven governance and service optimization**.  
+This project presents a **policy intelligence dashboard** and **decision support tool** built on Aadhaar biometric update data to support **data-driven governance and service optimization**.  
 This analysis identifies **regional demand hotspots**, **age-based update patterns**, and **inter-state inequalities**, enabling policymakers to make informed decisions on Aadhaar infrastructure planning.
 
 ---
@@ -24,9 +24,7 @@ This project combines **data analytics and cloud delivery** to transform raw Aad
 ### Tech Implementation
 - Python-based data processing
 - Visual analytics dashboards
-- Cloud-native hosting using AWS S3(data lake)
-- Global content delivery using CDN
-
+- Cloud-native hosting of decision-support analysis tool using AWS S3(data lake)
 ---
 
 ## 📈 Dashboard Insights
@@ -58,8 +56,7 @@ The dashboard includes the following analytical views:
 To demonstrate **real-world, government-scale deployment readiness**.
 
 ### Architecture Components
-- **Amazon S3** – Static hosting for dashboard and policy reports  
-- **Amazon CloudFront** – Low-latency nationwide content delivery  
+- **Amazon S3** – decision-support-analysis tool
 - **Public-read optimized bucket policy**
 - **Cache invalidation** for real-time updates
 
@@ -67,10 +64,10 @@ To demonstrate **real-world, government-scale deployment readiness**.
 
 ## 🔗 Live Deployments
 
-### 🧪 GitHub Pages (Primary Deployment) [ for understanding dashboard and policy insights ]
+### 🧪 GitHub Pages (Primary Deployment) [for understanding dashboard and policy insights]
 👉 https://krrish24-prog.github.io/aadhaar-biometric-policy-analytics/
 
-### 🌐  AWS decision-support tool [ for understanding decision-support tool ]
+### 🌐  AWS decision-support tool [for understanding decision-support tool]
 👉 https://aadhaar-biometric-dashboard.s3.ap-south-1.amazonaws.com/decision-support.html
 ---
 
@@ -81,7 +78,6 @@ To demonstrate **real-world, government-scale deployment readiness**.
 | Data Processing | Python, Pandas |
 | Visualization | Matplotlib |
 | Cloud Storage | Amazon S3 |
-| CDN | Amazon CloudFront |
 | Version Control | GitHub |
 | Reporting | PDF Policy Document |
 
@@ -99,5 +95,5 @@ This enables seamless integration with government decision-support systems and a
 ---
 
 BY TEAM MANOJ SQUARE 
-Aadhaar Biometric Update Analytics Project  
-Prepared for Government / Policy Hackathon Submission
+Aadhaar Biometric Update Data Analytics Project  
+Prepared for Government data ideathon Submission
