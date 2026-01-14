@@ -96,4 +96,4 @@ This enables seamless integration with government decision-support systems and a
 
 BY TEAM MANOJ SQUARE 
 Aadhaar Biometric Update Data Analytics Project  
-Prepared for Government data ideathon Submission
+Prepared for Government data Hackthon Submission
