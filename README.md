@@ -67,10 +67,6 @@ To demonstrate **real-world, government-scale deployment readiness**.
 ### 🧪 GitHub Pages (Primary Deployment) [for understanding dashboard and policy insights]
 👉 https://krrish24-prog.github.io/aadhaar-biometric-policy-analytics/
 
-### 🌐  AWS decision-support tool [for understanding decision-support tool]
-👉 https://aadhaar-biometric-dashboard.s3.ap-south-1.amazonaws.com/decision-support.html
----
-
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
